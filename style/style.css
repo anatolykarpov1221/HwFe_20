@@ -1,0 +1,30 @@
+#mainForm{
+    max-width: 500px;
+   
+    padding: 40px;
+    border: 2px solid black;
+    margin: 60px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: space-between;
+    align-items:center;
+
+}
+.main{
+    max-width: 700px;
+    margin: 100px;
+    align-items: center;
+    padding:10px 20px;
+    background-color: goldenrod;
+    display: flex;
+    justify-content: space-between;
+}
+.bottom_buttom{
+    width: 200px;
+    margin-left: 200px;  
+}
+.bottom_buttom button{
+    width: 100px;
+    
+}
